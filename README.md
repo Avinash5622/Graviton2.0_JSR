@@ -9,8 +9,18 @@ This project is a mordernised way of approach to an age old traditional problem 
 * WE established a virtual walkthrough using our model.
 
 ## IMAGES
+### Frame of reference
+![image](https://github.com/FF-Industries/Graviton2.0_JSR/assets/136846161/c85750a8-c227-4cf6-a04f-8839c8ea8942)
 
-<img width="50" alt="image" src="![WhatsApp Image 2024-04-07 at 09 42 31_e8c0dce2](https://github.com/FF-Industries/Graviton2.0_JSR/assets/136846161/a9f0154d-9dd7-4d81-b9bd-c9a3697c83f6)">
+### Displaying our model working 
+![image](https://github.com/FF-Industries/Graviton2.0_JSR/assets/136846161/be20cd57-a86a-45f7-abae-cc812c204fdc)
+
+![WhatsApp Image 2024-04-07 at 09 48 35_1bb7d8e5](https://github.com/FF-Industries/Graviton2.0_JSR/assets/136846161/cdde85c5-7ada-4e56-a698-70e8f43007a7)
+
+## 
+
+
+
 
 
 
