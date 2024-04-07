@@ -10,7 +10,8 @@ This project is a mordernised way of approach to an age old traditional problem 
 
 ## IMAGES
 
-<img width="299" alt="image" src="![WhatsApp Image 2024-04-07 at 09 42 31_9e3e0a53](https://github.com/FF-Industries/Graviton2.0_JSR/assets/136846161/67b187f2-118d-4085-8f37-835ebee97a50)b">
+<img width="50" alt="image" src="![0](https://github.com/FF-Industries/Graviton2.0_JSR/assets/136846161/55abf488-2ef2-4349-bb76-81c44645e321)
+">
 
 
 
